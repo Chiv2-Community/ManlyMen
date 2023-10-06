@@ -1,0 +1,15 @@
+{
+    "repo_url": "https://github.com/Chiv2-Community/ManlyMen",
+    "name": "ManlyMen",
+    "description": "Someone stole your clothes.",
+    "mod_type": "Shared",
+    "authors": [ "Nihi" ],
+    "dependencies": [
+        {
+            "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+            "version": ">=0.0.1"
+        }
+    ],
+    "ag_mod": true,
+    "tags": [ "Mutator" ]
+}
